@@ -21,6 +21,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 ## Finish
 
 _Congratulations friend, you've completed this course!_
+<br>
 
 <img src=https://octodex.github.com/images/welcometocat.png alt=celebrate width=300 align=right>
 
