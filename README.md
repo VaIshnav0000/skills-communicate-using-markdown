@@ -24,9 +24,9 @@ _Congratulations friend, you've completed this course!_
 <br>
 
 <img src=https://octodex.github.com/images/welcometocat.png alt=celebrate width=300 align=right>
-
+<br>
 Here's a recap of all the tasks you've accomplished in your repository:
-
+<br>
 1. You learned about Markdown, headings, images, code examples, and task lists.
 1. You created and merged a Markdown file.
 1. You learned an essential GitHub skill. 🎉
